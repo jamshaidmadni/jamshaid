@@ -13,7 +13,7 @@ Hi! I'm Muhammad Jamshaid Ali, a passionate web developer and a Computer Science
 - 🌐 Focused on **Front-End & Full-Stack Web Development**
 - 💡 Always learning — from frameworks to full-stack systems
 - 🚀 Building real-world projects with clean, scalable code
-
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamshaidmadni&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
@@ -22,6 +22,7 @@ Hi! I'm Muhammad Jamshaid Ali, a passionate web developer and a Computer Science
 - **Frameworks:** React.js, Node.js, Express.js
 - **Databases:** MongoDB, Firebase
 - **Tools:** Git, GitHub, VS Code, Figma
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaidmadni&layout=compact&theme=radical)
 
 ---
 
@@ -41,7 +42,7 @@ Here are a few of my highlighted works (check the pinned repos!):
 
 - Email: [muhammadjamshaidteach@gmail.com]  
 - LinkedIn: [www.linkedin.com/in/muhammad-jamshaid-1687082a0]
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamshaidmadni&show_icons=true&theme=radical)
+
 ---
 
 ## ⚡ Fun Fact
