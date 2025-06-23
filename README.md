@@ -35,8 +35,6 @@ Hi! I'm Muhammad Jamshaid Ali, a dedicated Computer Science student and web deve
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamshaidmadni&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaidmadni&layout=compact&theme=radical)
-
 ---
 
 ## 📌 Pinned Projects
