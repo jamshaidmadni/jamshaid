@@ -1,5 +1,5 @@
 # 💻 Muhammad Jamshaid Ali
-
+<img src="banner.png" alt="Muhammad Jamshaid Ali - Web Developer Banner" width="100%" />
 **Web Developer** | **BS Computer Science Student**  
 📍 University of Education | Passionate about building fast, responsive, and full-stack web applications.
 
