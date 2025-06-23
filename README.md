@@ -40,7 +40,8 @@ Here are a few of my highlighted works (check the pinned repos!):
 ## 📫 Contact Me
 
 - Email: [muhammadjamshaidteach@gmail.com]  
-- LinkedIn: [www.linkedin.com/in/muhammad-jamshaid-1687082a0] 
+- LinkedIn: [www.linkedin.com/in/muhammad-jamshaid-1687082a0]
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamshaidmadni&show_icons=true&theme=radical)
 ---
 
 ## ⚡ Fun Fact
